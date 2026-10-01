@@ -1,0 +1,10 @@
+{
+  "name":"Liweeitax",
+  "short_name":"Liweeitax",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#08080d",
+  "theme_color":"#08080d",
+  "lang":"en",
+  "description":"Liweeitax social network with offline video support"
+}
